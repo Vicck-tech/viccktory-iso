@@ -12,7 +12,7 @@ git add --all .
 
 # Give a comment to the commit if you want
 echo "####################################"
-echo "Write your commit comment!"
+echo "What have you changed!"
 echo "####################################"
 
 read input
