@@ -115,3 +115,11 @@ Include = /etc/pacman.d/arcolinux-mirrorlist
 [arcolinux_repo_xlarge]
 SigLevel = Required DatabaseOptional
 Include = /etc/pacman.d/arcolinux-mirrorlist
+
+[hefftor-repo]
+SigLevel = Optional TrustedOnly 
+Server = https://bradheff.github.io/$repo/$arch
+
+[victory-repo]
+SigLevel = Optional TrustedOnly 
+Server = https://vicck-tech.github.io/$repo/$arch
