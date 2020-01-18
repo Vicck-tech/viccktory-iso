@@ -189,3 +189,5 @@ ex ()
 [[ -f ~/.bashrc-personal ]] && . ~/.bashrc-personal
 
 neofetch
+
+source ~/.fancy-user-bash.sh
