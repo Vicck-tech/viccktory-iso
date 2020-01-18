@@ -2,8 +2,8 @@
 
 set -e -u
 
-iso_name=arcolinux
-iso_label="arcolinux-v20.1.4"
+iso_name=arcolinux-victory
+iso_label="arcolinux-victory-v20.1.4"
 iso_publisher="ArcoLinux <http://www.arcolinux.info>"
 iso_application="ArcoLinux Live/Rescue CD"
 iso_version="v20.1.4"
